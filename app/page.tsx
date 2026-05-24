@@ -3,92 +3,59 @@ export default function Home() {
     <>
       <section className="hero">
         <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>THE BEST 10 Montessori Schools in AUSTIN, TX</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f2f2f2;
-        }
-        
-        .hero {
-            background-image: linear-gradient(to bottom, #3498db, #2ecc71);
-            color: #fff;
-            padding: 100px;
-            text-align: center;
-        }
-        
-        .hero h1 {
-            font-size: 48px;
-            margin-bottom: 20px;
-        }
-        
-        .hero p {
-            font-size: 18px;
-            margin-bottom: 40px;
-        }
-        
-        .feature {
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            margin-bottom: 20px;
-        }
-        
-        .feature h2 {
-            font-size: 24px;
-            margin-bottom: 10px;
-        }
-        
-        .feature p {
-            font-size: 18px;
-            margin-bottom: 20px;
-        }
-    </style>
+    <title>THE BEST 10 Montessori Schools in Austin, TX</title>
+    <meta name="description" content="Nurturing Curious Minds through Montessori Education">
 </head>
 <body>
     <header>
         <nav>
             <ul>
-                <li><a href="#">About</a></li>
+                <li><a href="#">About Us</a></li>
                 <li><a href="#">Admissions</a></li>
-                <li><a href="#">Programs</a></li>
-                <li><a href="#">News</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="#">Academics</a></li>
+                <li><a href="#">Community</a></li>
+                <li><a href="#">Contact Us</a></li>
             </ul>
         </nav>
     </header>
     <main>
         <section class="hero">
-            <h1>Empowering Young Minds in Austin, TX</h1>
-            <p>At THE BEST 10 Montessori Schools in AUSTIN, TX, we believe in fostering a love of learning that lasts a lifetime. Our expertly trained teachers and rigorous academic programs set the stage for success in a rapidly changing world.</p>
+            <h1>Nurturing Curious Minds since 2005</h1>
+            <p>Discover the Power of Montessori Education at THE BEST 10 Montessori Schools in Austin, TX</p>
+            <button class="learn-more">Learn More</button>
         </section>
-        <section>
-            <h2>Our Mission</h2>
-            <p>We provide a safe, inclusive, and engaging environment that nurtures the unique potential of each child, from toddlerhood through adolescence. Our goal is to prepare students to become confident, creative, and compassionate individuals who are equipped to succeed in an ever-evolving world.</p>
+        <section class="feature-highlight">
+            <h2>Our Philosophy</h2>
+            <p>At THE BEST 10 Montessori Schools in Austin, TX, we believe in fostering a love of learning that lasts a lifetime. Our Montessori method allows children to explore and discover at their own pace, promoting independence, self-motivation, and critical thinking.</p>
+            <ul>
+                <li>Child-centered education that respects each child's unique learning style</li>
+                <li>Trained and experienced Montessori teachers who guide and support each child</li>
+                <li>A safe and nurturing environment that encourages social, emotional, and academic growth</li>
+            </ul>
         </section>
-        <section>
-            <h2>Featured Highlights</h2>
-            <div class="feature">
-                <h2>Montessori Method</h2>
-                <p>Our school is dedicated to the principles of the Montessori method, which emphasizes self-directed learning, hands-on activity, and collaborative play.</p>
-            </div>
-            <div class="feature">
-                <h2>Small Class Sizes</h2>
-                <p>We maintain small class sizes to ensure each child receives personalized attention and support from our expert teachers.</p>
-            </div>
-            <div class="feature">
-                <h2>State-of-the-Art Facilities</h2>
-                <p>Our school features modern, well-equipped facilities that provide a safe and stimulating environment for learning and growth.</p>
-            </div>
+        <section class="feature-highlight">
+            <h2>Our Programs</h2>
+            <p>We offer a range of programs for children from 18 months to 12 years old, each designed to meet the unique needs and interests of each age group.</p>
+            <ul>
+                <li>Toddler Program (18 months - 3 years): Fostering curiosity and exploration through play-based learning</li>
+                <li>Primary Program (3 - 6 years): Building a strong foundation in reading, writing, and mathematics</li>
+                <li Elementary Program (6 - 12 years): Encouraging critical thinking, problem-solving, and creativity</li>
+            </ul>
+        </section>
+        <section class="feature-highlight">
+            <h2>Why Choose Us</h2>
+            <p>At THE BEST 10 Montessori Schools in Austin, TX, we are committed to providing an exceptional education that prepares our students for success in life.</p>
+            <ul>
+                <li>Low teacher-to-student ratio ensures personalized attention and support</li>
+                <li>State-of-the-art facilities and equipment that foster a love of learning</li>
+                <li>A supportive community that values diversity, inclusivity, and social responsibility</li>
+            </ul>
         </section>
     </main>
     <footer>
-        <p>&copy; 2023 THE BEST 10 Montessori Schools in AUSTIN, TX. All rights reserved.</p>
+        <p>THE BEST 10 Montessori Schools in Austin, TX | 123 Main St, Austin, TX 78701 | Phone: (512) 123-4567 | Email: [info@best10montessori.com](mailto:info@best10montessori.com)</p>
     </footer>
 </body>
 </html>
